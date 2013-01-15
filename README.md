@@ -1,4 +1,2 @@
-siriusdog.github.com
-====================
-
-Blog master
+About this Blog
+it's belong to SiriusDog
